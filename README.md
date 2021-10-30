@@ -31,7 +31,7 @@
     },
     {
       "title_search": "Uchiha Itachi",
-      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.myfavwallpaper.com%2F2021%2F03%2Fuchiha-itachi-live-wallpaper-6.html&psig=AOvVaw0yaVpnMUNRZ0iFNua1cK7d&ust=1635689778144000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCODriLSp8vMCFQAAAAAdAAAAABAD"
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.myfavwallpaper.com%2F2021%2F03%2Fuchiha-itachi-live-wallpaper-6.html&  psig=AOvVaw0yaVpnMUNRZ0iFNua1cK7d&ust=1635689778144000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCODriLSp8vMCFQAAAAAdAAAAABAD"
     },
     {
       "title_search": "Deidara",
