@@ -21,7 +21,7 @@
   ],
   "HOME": [
     {
-      "keyword_home_fragment": ""
+      "keyword_home_fragment": "naruto"
     }
   ],
   "DATA": [
