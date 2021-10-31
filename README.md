@@ -21,7 +21,7 @@
   ],
   "HOME": [
     {
-      "keyword_home_fragment": "naruto"
+      "keyword_home_fragment": "Akatsuki"
     }
   ],
   "DATA": [
